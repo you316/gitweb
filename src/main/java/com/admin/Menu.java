@@ -1,9 +1,14 @@
 package com.admin;
 
 public class Menu {
-    private int id;
-    private String name;
-    private Integer memo;
-    private String work;
-    private String work2;
+    //id
+    private Long id;
+    //名称
+    private String menuName;
+    //链接
+    private String menuUrl;
+    //图标
+    private String menuIco;
+    //备注
+    private String memo;
 }
