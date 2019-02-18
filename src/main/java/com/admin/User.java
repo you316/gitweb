@@ -9,8 +9,11 @@ public class User {
     private String username;
     //性别
     private Long sex;
+    //年纪
     private String age;
+    //地址
     private String address;
+    //生日
     private Date birth;
     // 创建时间
     private Date createtime;
