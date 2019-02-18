@@ -2,7 +2,7 @@ package com.admin;
 
 public class Menu {
     //id
-    private Long id;
+    private Integer id;
     //名称
     private String menuName;
     //链接

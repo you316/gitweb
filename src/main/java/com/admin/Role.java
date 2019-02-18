@@ -2,7 +2,7 @@ package com.admin;
 
 public class Role {
     //id
-    private Long id;
+    private Integer id;
     //角色名称
     private String roleName;
     //备注
